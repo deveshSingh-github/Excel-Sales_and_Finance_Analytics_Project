@@ -49,7 +49,7 @@ Task was to transform massive raw sales data of company into an actionable insig
 
 ## Description of All the Reports
 
-1) Customer Net Sales Performance
+- Customer Net Sales Performance
   Customer net sales have shown a significant growth trend from 2019 to 2021, with a remarkable increase of more than 300% in 2021 compared to 2020, reflecting a robust business expansion and improved market positioning.
 
 2) Market Performnace vs Target 
