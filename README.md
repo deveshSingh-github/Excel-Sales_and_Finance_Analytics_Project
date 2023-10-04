@@ -9,7 +9,7 @@ It was a 2 weeks project, which helped me to learn advanced tools, concepts, tec
 
 Video Explaination: https://www.linkedin.com/posts/devesh-singh-35584920b_dataanalytics-excel-salesandfinance-activity-7114554727631118336-TU_W?utm_source=share&utm_medium=member_desktop
 
-Google Drive Link (to access Excel Report) : https://drive.google.com/drive/folders/1gYEbUZDHGwdaIlUGaik1I1pQxFWe60R6?usp=sharing
+Google Drive Link (to access Excel Reports) : https://drive.google.com/drive/folders/1gYEbUZDHGwdaIlUGaik1I1pQxFWe60R6?usp=sharing
 
 Now, I will take you deep inside it.
 Keep reading it....
